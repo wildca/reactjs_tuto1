@@ -1,0 +1,8 @@
+if there is problem with react-native-command 
+please add the following to your bash_profile file :HOST="localhost"
+and run: source ~/.bash_profile
+
+
+to launch server: yarn start
+
+tuto url: https://www.w3schools.com/react/react_getstarted.asp
